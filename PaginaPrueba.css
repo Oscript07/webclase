@@ -1,0 +1,17 @@
+h1,p {color: red}
+
+.clase1{color: peru}
+p.clase1 {font-style: italic}
+
+li.hover {color: blueviolet;}
+
+
+form p {color: green;}
+div {background-color: #fffbff;}
+
+p{
+	position:absolute;
+	 background-color: lightgray;
+	 width:50%;
+	 left:40px;
+    }
